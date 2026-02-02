@@ -1,0 +1,222 @@
+{
+  "@@locale": "bn",
+  "@@author": "Shekhar Board Team",
+  
+  "@_APP_GENERAL": {},
+  "appName": "শেখার বোর্ড",
+  "@appName": {
+    "description": "The name of the application"
+  },
+  "loading": "লোড হচ্ছে...",
+  "@loading": {
+    "description": "Loading indicator text"
+  },
+  
+  "@_LANGUAGE_SELECTION": {},
+  "selectLanguage": "ভাষা নির্বাচন করুন",
+  "@selectLanguage": {
+    "description": "Language selection title"
+  },
+  "languageBangla": "বাংলা",
+  "@languageBangla": {
+    "description": "Bengali language option"
+  },
+  "languageEnglish": "English",
+  "@languageEnglish": {
+    "description": "English language option"
+  },
+  "languageSelectionHint": "আপনার পছন্দের ভাষা নির্বাচন করুন",
+  "@languageSelectionHint": {
+    "description": "Language selection hint text"
+  },
+  
+  "@_SPLASH_SCREEN": {},
+  "splashWelcome": "স্বাগতম!",
+  "@splashWelcome": {
+    "description": "Welcome text on splash screen"
+  },
+  "splashTagline": "শিখি খেলার ছলে",
+  "@splashTagline": {
+    "description": "App tagline - Learn through play"
+  },
+  
+  "@_WELCOME_SCREEN": {},
+  "welcomeTitle": "স্বাগতম!",
+  "@welcomeTitle": {
+    "description": "Welcome screen title"
+  },
+  "welcomeSubtitle": "শিখি খেলার ছলে",
+  "@welcomeSubtitle": {
+    "description": "Welcome screen subtitle"
+  },
+  "welcomeMessage": "আসুন একসাথে মজার জগতে প্রবেশ করি!",
+  "@welcomeMessage": {
+    "description": "Welcome invitation message"
+  },
+  "startLearning": "শুরু করি!",
+  "@startLearning": {
+    "description": "Start learning button text"
+  },
+  
+  "@_TUTORIAL_SCREEN": {},
+  "tutorialTitle": "কিভাবে শিখবো?",
+  "@tutorialTitle": {
+    "description": "Tutorial screen title - How to learn"
+  },
+  "tutorialStep1": "ছবিতে টাচ করো",
+  "@tutorialStep1": {
+    "description": "Tutorial step 1 - Touch the picture"
+  },
+  "tutorialStep2": "নাম শোনো",
+  "@tutorialStep2": {
+    "description": "Tutorial step 2 - Hear the name"
+  },
+  "tutorialStep3": "মজা করো!",
+  "@tutorialStep3": {
+    "description": "Tutorial step 3 - Have fun"
+  },
+  "tutorialStart": "শুরু করি!",
+  "@tutorialStart": {
+    "description": "Tutorial start button"
+  },
+  "tutorialSkip": "এড়িয়ে যাই",
+  "@tutorialSkip": {
+    "description": "Skip tutorial button"
+  },
+  
+  "@_MAIN_BOARD": {},
+  "mainBoardTitle": "শিখি খেলার ছলে!",
+  "@mainBoardTitle": {
+    "description": "Main learning board title"
+  },
+  
+  "@_CATEGORIES": {},
+  "categoryAnimals": "পশু-পাখি",
+  "@categoryAnimals": {
+    "description": "Animals category"
+  },
+  "categoryFruits": "ফলমূল",
+  "@categoryFruits": {
+    "description": "Fruits category"
+  },
+  "categoryVegetables": "সবজি",
+  "@categoryVegetables": {
+    "description": "Vegetables category"
+  },
+  "categoryNumbers": "সংখ্যা",
+  "@categoryNumbers": {
+    "description": "Numbers category"
+  },
+  "categoryColors": "রং",
+  "@categoryColors": {
+    "description": "Colors category"
+  },
+  "categoryShapes": "আকৃতি",
+  "@categoryShapes": {
+    "description": "Shapes category"
+  },
+  "categoryLettersBn": "বর্ণমালা",
+  "@categoryLettersBn": {
+    "description": "Bengali letters category"
+  },
+  "categoryLettersEn": "ABC",
+  "@categoryLettersEn": {
+    "description": "English letters category"
+  },
+  "categoryBody": "শরীরের অংশ",
+  "@categoryBody": {
+    "description": "Body parts category"
+  },
+  "categoryFamily": "পরিবার",
+  "@categoryFamily": {
+    "description": "Family category"
+  },
+  "categoryVehicles": "যানবাহন",
+  "@categoryVehicles": {
+    "description": "Vehicles category"
+  },
+  "categoryFood": "খাবার",
+  "@categoryFood": {
+    "description": "Food category"
+  },
+  
+  "@_ERROR_SCREEN": {},
+  "errorTitle": "ওহ! কিছু ভুল হয়েছে",
+  "@errorTitle": {
+    "description": "Error screen title"
+  },
+  "errorMessage": "চিন্তা করো না, আবার চেষ্টা করি!",
+  "@errorMessage": {
+    "description": "Error screen message"
+  },
+  "errorRetry": "আবার চেষ্টা করি",
+  "@errorRetry": {
+    "description": "Retry button text"
+  },
+  "errorGoHome": "বাড়ি যাই",
+  "@errorGoHome": {
+    "description": "Go home button text"
+  },
+  
+  "@_SETTINGS": {},
+  "settingsTitle": "সেটিংস",
+  "@settingsTitle": {
+    "description": "Settings screen title"
+  },
+  "settingsLanguage": "ভাষা",
+  "@settingsLanguage": {
+    "description": "Language setting"
+  },
+  "settingsVoice": "কণ্ঠস্বর",
+  "@settingsVoice": {
+    "description": "Voice setting"
+  },
+  "settingsVoiceMale": "পুরুষ কণ্ঠ",
+  "@settingsVoiceMale": {
+    "description": "Male voice option"
+  },
+  "settingsVoiceFemale": "মহিলা কণ্ঠ",
+  "@settingsVoiceFemale": {
+    "description": "Female voice option"
+  },
+  "settingsVoiceAnime": "কার্টুন কণ্ঠ",
+  "@settingsVoiceAnime": {
+    "description": "Cartoon/Anime voice option"
+  },
+  
+  "@_PARENT_GATE": {},
+  "parentGateTitle": "অভিভাবক যাচাই",
+  "@parentGateTitle": {
+    "description": "Parent gate title"
+  },
+  "parentGateMessage": "শুধুমাত্র বড়দের জন্য",
+  "@parentGateMessage": {
+    "description": "Parent gate message - For adults only"
+  },
+  "parentGateQuestion": "সমস্যাটি সমাধান করুন",
+  "@parentGateQuestion": {
+    "description": "Parent gate instruction"
+  },
+  
+  "@_COMMON": {},
+  "buttonNext": "পরবর্তী",
+  "@buttonNext": {
+    "description": "Next button"
+  },
+  "buttonBack": "পিছনে",
+  "@buttonBack": {
+    "description": "Back button"
+  },
+  "buttonDone": "হয়ে গেছে",
+  "@buttonDone": {
+    "description": "Done button"
+  },
+  "buttonCancel": "বাতিল",
+  "@buttonCancel": {
+    "description": "Cancel button"
+  },
+  "buttonOk": "ঠিক আছে",
+  "@buttonOk": {
+    "description": "OK button"
+  }
+}

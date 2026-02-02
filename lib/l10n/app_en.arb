@@ -1,0 +1,63 @@
+{
+  "@@locale": "en",
+  
+  "appName": "Shekhar Board",
+  "loading": "Loading...",
+  
+  "selectLanguage": "Select Language",
+  "languageBangla": "বাংলা",
+  "languageEnglish": "English",
+  "languageSelectionHint": "Choose your preferred language",
+  
+  "splashWelcome": "Welcome!",
+  "splashTagline": "Learn Through Play",
+  
+  "welcomeTitle": "Welcome!",
+  "welcomeSubtitle": "Learn Through Play",
+  "welcomeMessage": "Let's enter the world of fun together!",
+  "startLearning": "Let's Start!",
+  
+  "tutorialTitle": "How to Learn?",
+  "tutorialStep1": "Touch the picture",
+  "tutorialStep2": "Hear the name",
+  "tutorialStep3": "Have fun!",
+  "tutorialStart": "Let's Start!",
+  "tutorialSkip": "Skip",
+  
+  "mainBoardTitle": "Learn Through Play!",
+  
+  "categoryAnimals": "Animals",
+  "categoryFruits": "Fruits",
+  "categoryVegetables": "Vegetables",
+  "categoryNumbers": "Numbers",
+  "categoryColors": "Colors",
+  "categoryShapes": "Shapes",
+  "categoryLettersBn": "Bengali Letters",
+  "categoryLettersEn": "ABC",
+  "categoryBody": "Body Parts",
+  "categoryFamily": "Family",
+  "categoryVehicles": "Vehicles",
+  "categoryFood": "Food",
+  
+  "errorTitle": "Oops! Something went wrong",
+  "errorMessage": "Don't worry, let's try again!",
+  "errorRetry": "Try Again",
+  "errorGoHome": "Go Home",
+  
+  "settingsTitle": "Settings",
+  "settingsLanguage": "Language",
+  "settingsVoice": "Voice",
+  "settingsVoiceMale": "Male Voice",
+  "settingsVoiceFemale": "Female Voice",
+  "settingsVoiceAnime": "Cartoon Voice",
+  
+  "parentGateTitle": "Parent Verification",
+  "parentGateMessage": "For Adults Only",
+  "parentGateQuestion": "Solve the problem",
+  
+  "buttonNext": "Next",
+  "buttonBack": "Back",
+  "buttonDone": "Done",
+  "buttonCancel": "Cancel",
+  "buttonOk": "OK"
+}

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Native splash screen matching app theme (Android 5.0+) -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Background: Cream color to match Flutter splash -->
+    <item android:drawable="@color/splash_background" />
+</layer-list>
