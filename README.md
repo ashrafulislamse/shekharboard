@@ -7,7 +7,7 @@
 [![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?logo=flutter&logoColor=white)](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/Dart-3.x-0175C2?logo=dart&logoColor=white)](https://dart.dev)
 [![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS-green)](/)
-[![License](https://img.shields.io/badge/License-Proprietary-red)](/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 <img src="assets/images/app_logo.png" alt="শেখার বোর্ড Logo" width="140"/>
 
@@ -302,6 +302,8 @@ We follow [Conventional Commits](https://www.conventionalcommits.org/):
 ---
 
 ## 📄 License
+
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file.
 
 This project is **proprietary software** owned by ZingSwift.  
 All rights reserved. Unauthorized distribution is prohibited.
