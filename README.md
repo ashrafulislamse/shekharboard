@@ -305,9 +305,6 @@ We follow [Conventional Commits](https://www.conventionalcommits.org/):
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file.
 
-This project is **proprietary software** owned by ZingSwift.  
-All rights reserved. Unauthorized distribution is prohibited.
-
 ---
 
 ## 👥 About ZingSwift
